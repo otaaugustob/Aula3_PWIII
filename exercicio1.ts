@@ -1,6 +1,6 @@
 let nota1 = 84
 
-/*let fconceito = function (n1:number){
+/*let fconceito = function (n1:number):void{
 
     if(nota1 == 0){
         console.log("E")
